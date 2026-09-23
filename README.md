@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Arthur Buhl</h1>
+<h1 align="center">I'm Arthur Buhl</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Student+at+EPITA+%F0%9F%8E%93;Software+Engineering+Student+%F0%9F%92%BB;Passionate+about+software+development+%E2%9A%A1" alt="Typing SVG" />
